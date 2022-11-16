@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{3E05D75A-4540-4331-8E8D-CB15EA1F0DEF}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BugListViewMidTruncDemo/MainPage.xaml.cs">
+    <Files>
+      <File FileName="BugListViewMidTruncDemo/MainPage.xaml" />
+      <File FileName="BugListViewMidTruncDemo/MainPage.xaml.cs" Line="27" Column="61" />
+      <File FileName="BugListViewMidTruncDemo/App.xaml.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BugListViewMidTruncDemo" expanded="True">
+            <Node name="BugListViewMidTruncDemo" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="AppShell.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A8736F74-DC44-402A-B72F-D5C07F5CCA18" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BugListViewMidTruncDemo PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A8736F74-DC44-402A-B72F-D5C07F5CCA18" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
