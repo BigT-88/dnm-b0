@@ -64,7 +64,7 @@
                 </ListView.ItemTemplate>
             </ListView>
             <Label Text="Label - demonstrates Middle Truncation." Margin="0,5,0,5"/>
-            <Label Text="How all occasions do inform against me, and spur my dull revenge!" LineBreakMode="MiddleTruncation" Margin="0,5,0,5" />
+            <Label Text="Sure, he that made us with such large discourse, looking before and after, gave us not that capability and god-like reason to fust in us unused." LineBreakMode="MiddleTruncation" Margin="0,5,0,5" />
             <Label Text="From Hamlet by William Shakespeare" Margin="0,5,0,5"/>
         </VerticalStackLayout>
     </ScrollView>
